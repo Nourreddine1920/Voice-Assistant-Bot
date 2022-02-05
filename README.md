@@ -1,4 +1,4 @@
-# VOICE ASSISTANT BOT ❕
+#  👋  VOICE ASSISTANT BOT ❕
 
 🛠️A Virtual Assistant VA in python  :  Voice Chat Bot 🤖
 
